@@ -1,12 +1,9 @@
 #!/usr/bin/python3
-"""The script that
-- takes in a URL
-- sends a request to the URL
-- displays the body of the response.
+""" A script that: accepts a URL as input,
+sends a request to that URL, and displays the body of the response.
 """
 import sys
 import requests
-
 
 if __name__ == "__main__":
     url = sys.argv[1]
