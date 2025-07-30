@@ -1,1 +1,1 @@
-README for ORM!
+Python - Object-relational mapping Author:Abdull-Kudus
