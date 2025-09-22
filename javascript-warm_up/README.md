@@ -1,1 +1,1 @@
-# My Javascript warm-up README file.
+My Javascript warm-up README file.
